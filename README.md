@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://aniketdey.vercel.app/](https://aniketdey.vercel.app/)
 
-- 💬 Ask me about **react, Web dev**
+- 💬 Ask me about **react, Web Dev**
 
 - 📫 How to reach me **meaniketdey@gmail.com**
 
@@ -89,9 +89,3 @@
   <img src="https://streak-stats.demolab.com?user=AniketDey06&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AniketDey06&radius=16&theme=react&area=true&order=5&hide_title=false&hide_border=true&bg_color=black" height="300" alt="activity-graph graph"  />
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AniketDey06/AniketDey06/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AniketDey06/AniketDey06/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AniketDey06/AniketDey06/output/pacman-contribution-graph.svg">
-</picture>
